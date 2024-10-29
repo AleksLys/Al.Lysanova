@@ -1,4 +1,4 @@
-elements = int(input("Введите количество эелементов массива: "))
+elements = int(input("Введите количество элементов массива: "))
 a = []
 zeros = a.count(0)
 mean = elements / (elements - zeros) 
